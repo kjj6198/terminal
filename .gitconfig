@@ -1,0 +1,11 @@
+[core]
+  editor=vim
+[user]
+	name = kjj6198
+	email = kjj6198@gmail.com
+
+[alias]
+  tree = "!git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow) %d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --first-parent"
+  brief = "!git log --graph --pretty=oneline --abbrev-commit --first-p    arent"
+[merge]
+	conflictstyle = diff3

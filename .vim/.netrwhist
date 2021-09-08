@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/kalan/.vscode/extensions/vscodevim.vim-1.21.7/syntaxes'
+let g:netrw_dirhist_4='/Users/kalan/.vscode/extensions/vscodevim.vim-1.21.7'
+let g:netrw_dirhist_3='/Users/kalan/.vscode/extensions'
+let g:netrw_dirhist_2='/Users/kalan/.vscode'
+let g:netrw_dirhist_1='/Users/kalan/code/safaribooks'
+let g:netrw_dirhist_0='/Users/kalan/Calibre Library'
+let g:netrw_dirhist_9='/Users/kalan'
+let g:netrw_dirhist_8='/Users/kalan/Desktop'
+let g:netrw_dirhist_7='/Users/kalan/.vim'
+let g:netrw_dirhist_6='/Users/kalan/code/securities-frontend/cwa/src'
