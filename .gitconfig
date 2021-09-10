@@ -9,3 +9,6 @@
   brief = "!git log --graph --pretty=oneline --abbrev-commit --first-p    arent"
 [merge]
 	conflictstyle = diff3
+
+[commit]
+  gpgsign = true
