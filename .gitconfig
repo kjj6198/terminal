@@ -3,6 +3,7 @@
 [user]
 	name = kjj6198
 	email = kjj6198@gmail.com
+  signingkey = 869F75DF8F21A0DA
 
 [alias]
   tree = "!git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow) %d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --first-parent"
